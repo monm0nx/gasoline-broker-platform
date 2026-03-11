@@ -1,0 +1,7 @@
+fastapi
+python-telegram-bot
+twilio
+asyncpg
+pandas
+numpy
+websockets
