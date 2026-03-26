@@ -1,7 +1,14 @@
 fastapi
+uvicorn
 python-telegram-bot
 twilio
 asyncpg
 pandas
 numpy
+scipy
+websocket-client
 websockets
+pydantic
+pytest
+pytest-asyncio
+httpx
